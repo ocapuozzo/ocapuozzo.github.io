@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Education | Fenêtre sur routes]]></title>
   <link href="http://ocapuozzo.github.io/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://ocapuozzo.github.io/"/>
-  <updated>2013-12-29T08:26:51+01:00</updated>
+  <updated>2013-12-29T08:50:31+01:00</updated>
   <id>http://ocapuozzo.github.io/</id>
   <author>
     <name><![CDATA[Olivier Capuozzo]]></name>
@@ -26,9 +26,8 @@
 
 <h4>En résumé</h4>
 
-<p>  &hellip;
-  Les principaux acteurs d'un DS sont les étudiants et un de leurs professeurs. Le professeur concoit le DS et les étudiants le subissent.
-  Ce post présente, sous la forme d'une classification, différentes façons de préparer et organiser un DS :</p>
+<p>  Le DS est une action de formation, ses principaux acteurs sont les étudiants et un de leurs professeurs (celui qui a préparé le DS).
+  Ce post propose de catégoriser différentes façons d'aborder un DS, à savoir :</p>
 
 <ul>
 <li>   DS 1.0 : (prononcez [déesse un point zéro]) le DS traditionnel</li>
@@ -37,7 +36,10 @@
 </ul>
 
 
-<hr />
+<!-- more -->
+
+
+<h2> </h2>
 
 <h2>DS 1.0</h2>
 

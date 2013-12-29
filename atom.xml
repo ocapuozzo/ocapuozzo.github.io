@@ -4,7 +4,7 @@
   <title><![CDATA[Fenêtre sur routes]]></title>
   <link href="http://ocapuozzo.github.io/atom.xml" rel="self"/>
   <link href="http://ocapuozzo.github.io/"/>
-  <updated>2013-12-29T08:26:51+01:00</updated>
+  <updated>2013-12-29T08:50:31+01:00</updated>
   <id>http://ocapuozzo.github.io/</id>
   <author>
     <name><![CDATA[Olivier Capuozzo]]></name>
@@ -27,9 +27,8 @@
 
 <h4>En résumé</h4>
 
-<p>  &hellip;
-  Les principaux acteurs d&#8217;un DS sont les étudiants et un de leurs professeurs. Le professeur concoit le DS et les étudiants le subissent.
-  Ce post présente, sous la forme d&#8217;une classification, différentes façons de préparer et organiser un DS :</p>
+<p>  Le DS est une action de formation, ses principaux acteurs sont les étudiants et un de leurs professeurs (celui qui a préparé le DS).
+  Ce post propose de catégoriser différentes façons d&#8217;aborder un DS, à savoir :</p>
 
 <ul>
 <li>   DS 1.0 : (prononcez [déesse un point zéro]) le DS traditionnel</li>
@@ -38,7 +37,10 @@
 </ul>
 
 
-<hr />
+<!-- more -->
+
+
+<h2> </h2>
 
 <h2>DS 1.0</h2>
 
@@ -115,15 +117,6 @@
 <p>D&#8217;ici un furtur proche, lorsque tout le monde sera mobilo-connecté, les DS aussi devront s&#8217;adapter.</p>
 
 <p>Mais se pose alors la question de ce qui est évalué : la capacité de l&#8217;individu à raisonner &ldquo;seul&rdquo; ou avec son réseau (sa capacité à l&#8217;exploiter) ?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[About]]></title>
-    <link href="http://ocapuozzo.github.io/blog/2013/12/22/about/"/>
-    <updated>2013-12-22T23:00:29+01:00</updated>
-    <id>http://ocapuozzo.github.io/blog/2013/12/22/about</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
